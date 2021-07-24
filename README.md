@@ -20,7 +20,7 @@ Go to: https://github.com/lakshayman/quizTaker
 10) Enter Command "npm install" to install deoendencies.
 11) Wait for task to complete.
 12) Enter Command "npm start" to run the app.
-13) To install front-end, visit the given link: xyz
+13) To install front-end, visit the given link: https://github.com/RahulGoyal-tech/quizTaker#readme
 
 ## Available Scripts
 
