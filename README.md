@@ -1,7 +1,6 @@
 # Getting Started with QUIZ TAKER
 
-This project was created by `Lakshay Manchanda`, `Rahul Goyal`, `Tushar Gupta` 
-with `React` app. Its purpose is to provide a begginer-friendly platform to set-up and attempt
+This project's purpose is to provide a backend to QuizTaker Frontend
 online quizzes with an easy. This is the back-end part of quizTaker, to install the front-end
 Go to: https://github.com/lakshayman/quizTaker
 
@@ -20,7 +19,7 @@ Go to: https://github.com/lakshayman/quizTaker
 10) Enter Command "npm install" to install deoendencies.
 11) Wait for task to complete.
 12) Enter Command "npm start" to run the app.
-13) To install front-end, visit the given link: https://github.com/RahulGoyal-tech/quizTaker#readme
+13) To install front-end, visit the given link: https://github.com/lakshayman/quizTaker#readme
 
 ## Available Scripts
 
